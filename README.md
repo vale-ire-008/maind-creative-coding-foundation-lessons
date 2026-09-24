@@ -10,4 +10,4 @@ The topics are:
 -CSS
 -JS
 
-MAIND year 2026/2028
+MAIND year 2026/2028 
