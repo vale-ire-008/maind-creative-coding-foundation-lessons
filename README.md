@@ -9,3 +9,5 @@ The topics are:
 -HTML
 -CSS
 -JS
+
+MAIND year 2026/2028
